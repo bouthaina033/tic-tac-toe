@@ -1,0 +1,5 @@
+Modèle,Précision,Rappel,F1-score,Exactitude,Temps de prédiction (ms)
+K-Nearest Neighbors,0.9974,0.9974,0.9974,0.9974,1928.80
+Support Vector Machine,0.9831,0.9828,0.9828,0.9828,31139.73
+Decision Tree,0.5085,0.6319,0.5620,0.6319,2.45
+Random Forest,0.9994,0.9994,0.9994,0.9994,257.46
